@@ -2,8 +2,8 @@
 
 
 ### Languages
-[<img align="left" alt="Rust-lang-logo" width="22px" style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />]
-[<img align="left" alt="Rust-lang-logo" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]
+<img align="left" alt="Rust-lang-logo" width="22px" style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
+<img align="left" alt="Rust-lang-logo" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
 
 
