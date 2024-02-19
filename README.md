@@ -1,14 +1,20 @@
 ### Hi there, I'm Henri! 👋🏾
+I am a mid level dev originally from Port-au-Prince, Haïti, and a graduate of the University of Notre Dame 🍀 (GO IRISH!).  
+
+
+I am a *product minded engineer* who values ... adding value for stakeholders, haha. I like to focus on the goals and requirements of any project before thinking about the technical problem solving aspect (focusing on the *why?* rather than the *how?*).
+
+
 I am currently working in the embedded systems space, working on tools grahical interfaces. My current work uses C#, Angular, and a bit of Python / C / Rust once in a blue moon.
 
 ### Languages
-
 <img align="left" alt="CSharp-logo" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Angular-logo" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />          
 <img align="left" alt="Python-logo" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Rust-lang-logo" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
+<img align="left" alt="C-logo" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />.  
 
 
-
-[threads]: https://www.threads.net/@henriiffrr
-[linkedin]: https://www.linkedin.com/in/henri-edouard-f-7a63ba9b/
+### Socials 
+* Check out my random thoughts and rants on [threads](https://www.threads.net/@henriiffrr)  
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/henri-edouard-f-7a63ba9b/)  
